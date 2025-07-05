@@ -12,7 +12,7 @@ Se requiere de XAMP para facilitar la instalacion de la Solucion.
 Se recomienda Importar la Base de Datos empleando el SQL llamado *db_gestion_bodega.sql*.
 
 ## Clonar el repositorio
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/coiponorte/gestion-bodega.git
 
 ### Datos de Ejemplo
 
